@@ -1,0 +1,1 @@
+web: gunicorn python Meu_site:app
